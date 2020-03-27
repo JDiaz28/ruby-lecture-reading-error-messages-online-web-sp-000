@@ -1,3 +1,5 @@
-"hello world"
+do
+puts "hello world"
+end
 
 hello_world
